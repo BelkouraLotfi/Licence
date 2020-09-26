@@ -1,2 +1,2 @@
 # Licence
-repertoire Licennce EEA
+repertoire Licence EEA
